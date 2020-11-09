@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93aaa858-7760-42ab-9fd0-d9c32475d0a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="928e4dc2-b613-4b97-ae5f-4e552d4ef2e0" />
+  <component name="ProjectId" id="1jt92AnoT1gKMakFgCRhtKLTibU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/RoboLearn/saved" />
+      <recent name="$PROJECT_DIR$/assignment_part4/saved" />
+      <recent name="$PROJECT_DIR$/assignment_part4" />
+      <recent name="$PROJECT_DIR$/assignment_part2" />
+      <recent name="$PROJECT_DIR$/assignment_part2/saved" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.goal_seeking (1)">
+    <configuration name="Helper" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="untitled5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment_part4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment_part4/Helper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Networks (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RoboLearn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RoboLearn/Networks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Networks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment_part4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment_part4/Networks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SimulationEnvironment" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="untitled5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment_part4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment_part4/SimulationEnvironment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SteeringBehaviors" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="untitled5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment_part4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment_part4/SteeringBehaviors.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="untitled5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="goal_seeking (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RoboLearn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RoboLearn/goal_seeking.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_model (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RoboLearn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RoboLearn/train_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment_part4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment_part4/train_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.goal_seeking (1)" />
+        <item itemvalue="Python.train_model (1)" />
+        <item itemvalue="Python.Networks (1)" />
+        <item itemvalue="Python.train_model" />
+        <item itemvalue="Python.Networks" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93aaa858-7760-42ab-9fd0-d9c32475d0a3" name="Default Changelist" comment="" />
+      <created>1604612310627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604612310627</updated>
+      <workItem from="1604612311779" duration="24857000" />
+      <workItem from="1604691727562" duration="123000" />
+      <workItem from="1604691958485" duration="10030000" />
+      <workItem from="1604702788042" duration="8216000" />
+      <workItem from="1604783052516" duration="399000" />
+      <workItem from="1604783456280" duration="16000" />
+      <workItem from="1604783503308" duration="5843000" />
+      <workItem from="1604790748051" duration="3066000" />
+      <workItem from="1604794031521" duration="6261000" />
+      <workItem from="1604803424771" duration="7174000" />
+      <workItem from="1604810904510" duration="11000" />
+      <workItem from="1604810981538" duration="9173000" />
+      <workItem from="1604858583599" duration="3923000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-597" y="-927" width="759" height="804" key="#Data_Loaders" timestamp="1604791951747">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-597" y="-927" width="759" height="804" key="#Data_Loaders/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1604791951747" />
+    <state x="-498" y="-896" key="#Helper" timestamp="1604792014713">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-498" y="-896" key="#Helper/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1604792014713" />
+    <state x="-498" y="-896" key="#Networks" timestamp="1604792022418">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-498" y="-896" key="#Networks/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1604792022418" />
+    <state x="-498" y="-896" key="#SimulationEnvironment" timestamp="1604792041858">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-498" y="-896" key="#SimulationEnvironment/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1604792041858" />
+    <state x="-498" y="-896" key="#SteeringBehaviors" timestamp="1604792046698">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-498" y="-896" key="#SteeringBehaviors/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1604792046698" />
+    <state x="1074" y="-835" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604612837731">
+      <screen x="667" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="1074" y="-835" key="#com.intellij.execution.impl.EditConfigurationsDialog/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@667.-1057.1920.1057" timestamp="1604612837731" />
+    <state x="-555" y="-709" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604790867731">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-555" y="-709" key="#com.intellij.fileTypes.FileTypeChooser/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1604790867731" />
+    <state x="-498" y="-896" key="#goal_seeking" timestamp="1604791997980">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-498" y="-896" key="#goal_seeking/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1604791997980" />
+    <state x="-498" y="-896" key="#train_model" timestamp="1604792052073">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-498" y="-896" key="#train_model/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1604792052073" />
+    <state x="-980" y="-857" width="1547" height="857" key="DiffContextDialog" timestamp="1604799987844">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-980" y="-857" width="1547" height="857" key="DiffContextDialog/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1604799987844" />
+    <state x="-801" y="-858" key="SettingsEditor" timestamp="1604791645724">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-801" y="-858" key="SettingsEditor/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1604791645724" />
+    <state x="1119" y="-858" key="SettingsEditor/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@667.-1057.1920.1057" timestamp="1604613096474" />
+    <state x="-839" y="-837" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1604696863917">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-839" y="-837" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1604696863917" />
+    <state x="-695" y="-717" key="com.intellij.ide.util.TipDialog" timestamp="1604858583770">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-695" y="-717" key="com.intellij.ide.util.TipDialog/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1604858583770" />
+    <state x="0" y="23" width="960" height="832" key="dock-window-1" timestamp="1604874650881">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="0" y="23" width="960" height="832" key="dock-window-1/0.23.1440.832@0.23.1440.832" timestamp="1604874650881" />
+    <state x="667" y="-1057" width="960" height="1057" key="dock-window-1/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1604858622559" />
+    <state x="-384" y="-936" width="865" height="637" key="dock-window-1/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@667.-1057.1920.1057" timestamp="1604614027240" />
+    <state x="990" y="-1030" width="984" height="891" key="dock-window-2" timestamp="1604700572653">
+      <screen x="667" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="990" y="-1030" width="984" height="891" key="dock-window-2/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1604700572653" />
+    <state x="667" y="-1057" width="960" height="529" key="dock-window-3" timestamp="1604697558261">
+      <screen x="667" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="667" y="-1057" width="960" height="529" key="dock-window-3/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1604697558261" />
+    <state x="899" y="-1052" width="991" height="611" key="dock-window-4" timestamp="1604700572654">
+      <screen x="667" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="899" y="-1052" width="991" height="611" key="dock-window-4/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1604700572654" />
+    <state x="695" y="-1057" width="960" height="1057" key="dock-window-5" timestamp="1604783053013">
+      <screen x="667" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="695" y="-1057" width="960" height="1057" key="dock-window-5/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1604783053013" />
+    <state x="-527" y="-892" key="scopes" timestamp="1604791540207">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-527" y="-892" key="scopes/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1604791540207" />
+  </component>
+</project>
